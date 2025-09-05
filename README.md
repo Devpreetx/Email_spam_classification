@@ -42,7 +42,7 @@ These steps help the model identify patterns in text that differentiate Spam ema
 - **Logistic Regression**  
 - **Gradient Boosting**  
   ---
-The best-performing model (based on accuracy & F1 score) was saved as spam_model.pkl using Joblib for future use in prediction without retraining.
+The best-performing model (based on accuracy & F1 score) was saved as spam_classifier_model.pkl and tfidf_vectorizer.pkl using Joblib for future use in prediction without retraining.
 
 🚀 **Streamlit Web App**  
 You can run the Streamlit frontend using the command:  
