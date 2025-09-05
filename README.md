@@ -23,7 +23,7 @@ This project is a Machine Learning-based web application developed using Streaml
   
   ### ✅ Features Used
 
-The following NLP and preprocessing techniques were used to train the spam classifier model:
+  The following NLP and preprocessing techniques were used to train the spam classifier model:
 
 - **Tokenization** – Breaking email text into words.
 - **Stopword Removal** – Removing irrelevant/common words (e.g., the, is, at).  
@@ -31,14 +31,16 @@ The following NLP and preprocessing techniques were used to train the spam class
 - **TF-IDF Vectorization** – Converting text into numerical feature vectors.
 These steps help the model identify patterns in text that differentiate Spam emails from Non-Spam emails.
 
-  ###✅ Model Training Overview
+  ---
+  
+  ### ✅ Model Training Overview
 
 - **Naive Bayes Classifier**  
 - **Support Vector Machine (SVM)**  
 - **Random Forest Classifier**  
 - **Logistic Regression**  
 - **Gradient Boosting**  
-
+  ---
 The best-performing model (based on accuracy & F1 score) was saved as spam_model.pkl using Joblib for future use in prediction without retraining.
 
 🚀 **Streamlit Web App**  
