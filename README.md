@@ -2,7 +2,7 @@
 
 This project is a Machine Learning-based web application developed using Streamlit. It classifies whether an email is Spam or Not Spam based on the content provided. With a clean and interactive UI, users can input email text and instantly see the prediction in real-time.
 
-##🔍 Key Points
+## 🔍 Key Points
 
 Spam Detection with NLP
 Predicts whether an email is Spam or Not Spam using Natural Language Processing techniques.
