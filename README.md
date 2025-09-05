@@ -4,19 +4,19 @@ This project is a Machine Learning-based web application developed using Streaml
 
 ## 🔍 Key Points
 
-- ** Spam Detection with NLP
+- **Spam Detection with NLP**
 Predicts whether an email is Spam or Not Spam using Natural Language Processing techniques.
 
-- ** Interactive Web Interface with Streamlit
+- **Interactive Web Interface with Streamlit**
 Provides a simple, user-friendly interface where users can paste or type email text and get predictions—no coding required.
 
-- ** Machine Learning Model Integration
+- **Machine Learning Model Integration**
 Trained with models like Naive Bayes, SVM, and Random Forest. The best-performing model is deployed for high accuracy.
 
-- ** Real-Time Predictions
+- **Real-Time Predictions**
 The app instantly processes text and returns results, ensuring fast and reliable spam detection.
 
-- ** Deployment Ready
+- **Deployment Ready**
 Easily deployable via Streamlit Community Cloud, GitHub, or any Python-compatible cloud platform.
 
 ✅ Features Used
