@@ -1,5 +1,5 @@
 # 📧 Spam Email Classification Web App
-![Uploading image.png…]()
+<img width="1360" height="630" alt="image" src="https://github.com/user-attachments/assets/725502f7-3a35-4710-bf54-f241ca0e98f7" />
 
 This project is a Machine Learning-based web application developed using Streamlit. It classifies whether an email is Spam or Not Spam based on the content provided. With a clean and interactive UI, users can input email text and instantly see the prediction in real-time.
 
