@@ -19,18 +19,17 @@ This project is a Machine Learning-based web application developed using Streaml
 - **Deployment Ready**  
   Easily deployable via Streamlit Community Cloud, GitHub, or any Python-compatible cloud platform.
 
-✅ Features Used
+  ---
+  
+  ### ✅ Features Used
 
 The following NLP and preprocessing techniques were used to train the spam classifier model:
 
-Tokenization – Breaking email text into words.
-
-Stopword Removal – Removing irrelevant/common words (e.g., the, is, at).
-
-Stemming – Reducing words to their root form (e.g., running → run).
-
-TF-IDF Vectorization – Converting text into numerical feature vectors.
-
+- **Tokenization** – Breaking email text into words.
+- **Stopword Removal** – Removing irrelevant/common words (e.g., the, is, at).  
+- **Stemming** – Reducing words to their root form (e.g., running → run).  
+- **TF-IDF Vectorization** – Converting text into numerical feature vectors.
+- 
 These steps help the model identify patterns in text that differentiate Spam emails from Non-Spam emails.
 
 ✅ Model Training Overview
